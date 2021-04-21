@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T17:31:22.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="DpEtTe0nrvlS5j6SmaRi" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T17:38:29.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="IagKpTkEevBT9fXjpZG5" version="14.6.3" type="github">
   <diagram id="4mkBv_YgtIYzEHDCqf_Q" name="Page-1">
-    <mxGraphModel dx="1504" dy="654" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="292" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="hd8weYj9Gk-Xb1H9IMSv-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="433" y="117" width="360" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="hd8weYj9Gk-Xb1H9IMSv-14" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+        <mxCell id="hd8weYj9Gk-Xb1H9IMSv-14" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3BstartArrow%3Dclassic%3Bhtml%3D1%3BstrokeColor%3D%2366B2FF%3BentryX%3D0.5%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2280%22%20y%3D%22600%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%2280.49999999999977%22%20y%3D%22565.45%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="233" y="87" width="870" height="630" as="geometry" />
         </mxCell>
         <mxCell id="hd8weYj9Gk-Xb1H9IMSv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -213,6 +213,24 @@
         </mxCell>
         <mxCell id="eNCzuhEaHwYBkcYv9uUm-68" value="&lt;b&gt;PELE Subscription - LH_MSP_PELE_N&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="223" y="62" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eNCzuhEaHwYBkcYv9uUm-72" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="613.45" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="eNCzuhEaHwYBkcYv9uUm-73" value="Data Factory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="676.9997297297298" width="160" height="24.864864864864867" as="geometry" />
+        </mxCell>
+        <mxCell id="eNCzuhEaHwYBkcYv9uUm-78" value="" style="endArrow=none;startArrow=none;html=1;strokeColor=#66B2FF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303" y="652" as="sourcePoint" />
+            <mxPoint x="302.5" y="587.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eNCzuhEaHwYBkcYv9uUm-79" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#66B2FF;" edge="1" parent="1" target="eNCzuhEaHwYBkcYv9uUm-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303.00000000000216" y="652" as="sourcePoint" />
+            <mxPoint x="339.30999999999995" y="652.3870400000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
