@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T08:38:37.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wFzFG8vLyzH0AKkJiFz1" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T08:50:46.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="29w2jwtOVDz3RQS2T_8V" version="14.6.9" type="github">
   <diagram id="7e_LPJ7nci3DvN2lGmQI" name="Page-1">
     <mxGraphModel dx="1344" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-8" value="Germany Local Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1D7SzZxX3NGCVnX-Esjs-9" value="Iberia Local Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1D7SzZxX3NGCVnX-Esjs-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Iberia Local Database&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1D7SzZxX3NGCVnX-Esjs-10" value="Italy Local Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1D7SzZxX3NGCVnX-Esjs-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Italy Local Database&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -35,16 +35,16 @@
           <mxGeometry x="150" y="575" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="150" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;RetailPRo&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="710" width="40" height="20" as="geometry" />
+          <mxGeometry x="170" y="810" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="760" width="80" height="80" as="geometry" />
+          <mxGeometry x="150" y="860" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;SPS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="850" width="40" height="20" as="geometry" />
+          <mxGeometry x="160" y="950" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="650" y="390" width="205" height="205" as="geometry" />
@@ -63,6 +63,15 @@
         </mxCell>
         <mxCell id="1D7SzZxX3NGCVnX-Esjs-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;POS Systems&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="900" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1D7SzZxX3NGCVnX-Esjs-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1D7SzZxX3NGCVnX-Esjs-29" value="&lt;font style=&quot;font-size: 24px&quot;&gt;adidas DC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="720" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1D7SzZxX3NGCVnX-Esjs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1D7SzZxX3NGCVnX-Esjs-29" target="1D7SzZxX3NGCVnX-Esjs-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
